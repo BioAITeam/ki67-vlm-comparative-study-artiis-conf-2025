@@ -206,7 +206,7 @@ python 3.vlm_processing/2.ki67_single_image.py 1.data_access/data_sample/3.data_
 ```
 
 ```bash
-python 3.vlm_processing/2.ki67_single_image.py 1.data_access/data_sample/3.data_processed/8.jpg --model gpt-4.1-mini-2025-04-14  
+python 3.vlm_processing/2.ki67_single_image.py 1.data_access/data_sample/3.data_processed/8.jpg --model gpt-4.1-mini-2025-04-14
 ```
 
 ```bash
